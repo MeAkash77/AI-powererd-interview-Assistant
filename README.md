@@ -123,7 +123,7 @@ flowchart TD
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/Vijaysingh1621/AI-powererd-interview-Assistant.git
+git clone https://github.com/MeAkash77/AI-powererd-interview-Assistant.git
 cd ai-interview-copilot
 
 
