@@ -50,27 +50,6 @@
 
 ---
 
-
-## 🚀 BlitzQ - Production SaaS Built on This Prototype
-
-Building on this open-source prototype, I created *BlitzQ* - a comprehensive SaaS platform that takes interview preparation to the next level.
-
-### *Ace Every Interview with BlitzQ*
-Your intelligent AI-powered interview copilot that provides real-time answers, helps you practice, and boosts your confidence. Ace every interview and land your dream job.
-
-<p align="center">
-  <img src="./public/blitzq.png" alt="BlitzQ - AI Interview Copilot SaaS" width="800" />
-  <br />
-  <em>BlitzQ - Production-ready AI interview assistance platform</em>
-</p>
-
-### *Real Interview Experience*
-<p align="center">
-  <img src="./public/interview.png" alt="BlitzQ Live Interview Session" width="800" />
-  <br />
-  <em>BlitzQ in action during a live technical interview - real-time AI suggestions and contextual help</em>
-</p>
-
 ### *Practice and Examples*
 <p align="center">
   <img src="./public/example.png" alt="BlitzQ Practice Examples" width="800" />
